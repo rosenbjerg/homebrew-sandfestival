@@ -2,8 +2,7 @@ cask "sandfestival" do
   version "0.13.0"
   sha256 "5249c4605faa0a62ff2af8fc223c473aa3a1fb143c2ba920af41866b532a50ad"
 
-  url "https://github.com/rosenbjerg/SandFestival/releases/download/v#{version}/SandFestival-#{version}.dmg",
-      verified: "github.com/rosenbjerg/SandFestival/"
+  url "https://github.com/rosenbjerg/SandFestival/releases/download/v#{version}/SandFestival-#{version}.dmg"
   name "Sand Festival"
   desc "Dashboard for long-running Claude Code sessions"
   homepage "https://github.com/rosenbjerg/SandFestival"
