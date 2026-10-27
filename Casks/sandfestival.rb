@@ -1,6 +1,6 @@
 cask "sandfestival" do
-  version "0.15.0"
-  sha256 "7d4e16399982971521f14cb46ec38bc39e886d5c87ab698db0ee26e4ee7bb32f"
+  version "0.16.0"
+  sha256 "c1997860c4e5d8bb08aa9aea92e623b463f14f0312c3517dcb56a517518b0a77"
 
   url "https://github.com/rosenbjerg/SandFestival/releases/download/v#{version}/SandFestival-#{version}.dmg"
   name "Sand Festival"
